@@ -1,0 +1,6 @@
+Hello: Hi there! How can I help you?
+What is your name: I am Bhavit Mini AI.
+What is Flask: Flask is a lightweight Python web framework.
+What is Streamlit: Streamlit is a framework to build data apps in Python.
+Who created you: I was created by Bhavit.
+How are you: I am functioning perfectly on 4GB RAM!
